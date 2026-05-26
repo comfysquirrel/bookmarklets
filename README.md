@@ -6,8 +6,8 @@
 4. Right click the bookmark, click edit, delete the bookmark's URL field and paste in the script.
 5. Click the bookmark on any site to run the script.
 
-> [!NOTE]
-> Like any code on the internet, make sure you read the script and understand what it does before running it.
+> [!IMPORTANT]
+> Like any code on the internet, make sure you understand what the script does before running it.
 
 ## Scripts
 
