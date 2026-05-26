@@ -7,7 +7,8 @@ javascript:(() => {
         cleanURL = `https://${domain}/dp/${id}`;
     }
     if (domain.includes("youtube")) {
-
+        const id = currentURL.match(/(\?v=)(?<id>[a-z0-9]*)/i).groups.id;
+        cleanURL = `https://youtu.be/${id}`;
     }
     navigator.clipboard.writeText(cleanURL);
 })();
