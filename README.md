@@ -6,6 +6,9 @@
 4. Right click the bookmark, click edit, delete the bookmark's URL field and paste in the script.
 5. Click the bookmark on any site to run the script.
 
+> [!NOTE]
+> Like any code on the internet, make sure you read the script and understand what it does before running it.
+
 ## Scripts
 
 - [Clean URL](https://github.com/comfysquirrel/bookmarklets/blob/main/CleanURL.js): copies the shortest version of your current URL to the clipboard. Works on Amazon or YouTube.
