@@ -11,4 +11,4 @@
 
 ## Scripts
 
-- [Clean URL](https://github.com/comfysquirrel/bookmarklets/blob/main/CleanURL.js): copies the shortest version of your current URL to the clipboard. Works on Amazon or YouTube.
+- [Clean URL](https://github.com/comfysquirrel/bookmarklets/blob/main/CleanURL.js): copies the shortest version of your current URL to the clipboard. Works on Amazon, Etsy, and YouTube.
